@@ -45,5 +45,8 @@ verify. Your data and settings stay.
 
 ## Feedback
 
-Use **Settings → Give feedback** in the app (coming soon). This repository
-holds releases and documentation only; its source code isn't public.
+Use **Feedback** at the bottom of the app's navigation: sign in with GitHub
+once, then each bug, wish or idea becomes an issue
+[here](https://github.com/MMDaemon/frameplan/issues) — or write one here
+directly. Issues are public. This repository holds releases and documentation
+only; its source code isn't public.

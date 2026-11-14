@@ -29,5 +29,15 @@ PC. Your phone has to be in the same home network.
 them. (Earlier versions, called “Warframe Farmplan”, used
 `%LOCALAPPDATA%\WarframeFarmplan`; Frameplan moves it on its first start.)
 
+**How do I report a bug or wish for something?**
+**Feedback** at the bottom of the navigation. Sign in with GitHub once (a free
+account); each report becomes a public issue. To add a screenshot, open the
+issue after sending, press Win+Shift+S, then Ctrl+V into a comment.
+
+**How do I know an update worked?**
+After an update Windows shows “Frameplan was updated to …” once. The version is
+in Settings → The program (“this is …”), in the tray menu → Updates, and when
+you point at the tray icon.
+
 **Is Frameplan made by Digital Extremes?**
 No. It is a free fan tool and not affiliated with Digital Extremes.

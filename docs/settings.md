@@ -30,3 +30,9 @@ changed on the PC Frameplan runs on.
 - **Notifications** — live offers of missing items (Baro, Nightwave …),
   reminders before a reset, the weekly plan for your Arcanes, page ready /
   page build failed.
+
+## Feedback
+Sign in with GitHub (on the PC) to send feedback from the app's **Feedback**
+button: Frameplan shows a code, you enter it on GitHub. *Sign out* forgets the
+sign-in on this PC. A phone with phone access can send too, in the name signed
+in on the PC. See [Privacy](privacy.md#feedback) for what is sent.
