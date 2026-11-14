@@ -28,9 +28,13 @@ Feedback is sent only when you send it, as a **public issue on GitHub** in
 your GitHub name:
 
 - what you write (the kind, a title, the text),
-- the app's version and the name of the page you sent it from.
+- the app's version, the page it's about and, if you pick one, the entry (an
+  item, a mod, an island ...),
+- unless you untick it: that entry's data as the page shows it (counts, sources,
+  places) or the page's warnings and filters -- shown under "Show what's
+  attached" before you send, never with your in-game name.
 
-Nothing of your inventory goes with it. To send, you sign in with GitHub once
+Nothing else of your inventory goes with it. To send, you sign in with GitHub once
 on the PC (Settings → Feedback): GitHub shows the code Frameplan displays, you
 confirm it there — Frameplan never sees your password. Frameplan may then only
 open issues in that one repository. The sign-in is kept in Windows' Credential

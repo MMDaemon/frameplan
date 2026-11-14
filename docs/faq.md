@@ -31,7 +31,7 @@ them. (Earlier versions, called “Warframe Farmplan”, used
 
 **How do I report a bug or wish for something?**
 **Feedback** at the bottom of the navigation. Sign in with GitHub once (a free
-account); each report becomes a public issue. To add a screenshot, open the
+account); each report becomes a public issue. In an item's (or mod's, island's ...) details, *Report a problem with this* fills in what it's about and attaches its data, so the problem can be found. To add a screenshot, open the
 issue after sending, press Win+Shift+S, then Ctrl+V into a comment.
 
 **How do I know an update worked?**
