@@ -2,6 +2,14 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.15.484 (2026-11-15)
+
+- Details open on top of each other: a click on an item, mod, Arcane, resource, relic, island and so on opens its details over the current view, and you stay on the page you were on. Close, Esc or Back (the back gesture on a phone) closes only the top view. From the second view on, "Close all" takes you back to the page. A click beside a view closes it; with several open, you choose between this one and all.
+- Every details view has the same width. An island's place navigation sits as its own panel beside the view, and choosing a place opens that place alone.
+- Supplies: a tile opens its details, with the blueprint, the build, other blueprints, vendors and drops. The target is set there now.
+- Syndicates: a link opens the syndicate's details.
+- Activities: the Nightwave group says what its Standing is for. Islands: a locked tile is as tall as the others.
+
 ## 2026.11.15.479 (2026-11-15)
 
 - Islands on a phone: the place tiles in an island's details now fit the screen. Before, a second column was cut off at the right edge, and the details flickered while scrolling.
