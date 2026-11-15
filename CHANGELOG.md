@@ -2,6 +2,10 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.15.479 (2026-11-15)
+
+- Islands on a phone: the place tiles in an island's details now fit the screen. Before, a second column was cut off at the right edge, and the details flickered while scrolling.
+
 ## 2026.11.15.476 (2026-11-15)
 
 - Incarnon: a tile opens its details. They show the adapter's cost, where you install it and which Circuit week offers it, plus every evolution with the challenge that unlocks it and its perks, with your variants' values. The evolutions come from the wiki.
