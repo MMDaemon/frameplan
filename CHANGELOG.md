@@ -2,6 +2,11 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.15.487 (2026-11-15)
+
+- Settings: in tabs (Pages, Appearance, The program, Feedback).
+- Appearance: choose Dark, Light or Like the browser (the default). The choice applies at once and stays after a reload.
+
 ## 2026.11.15.484 (2026-11-15)
 
 - Details open on top of each other: a click on an item, mod, Arcane, resource, relic, island and so on opens its details over the current view, and you stay on the page you were on. Close, Esc or Back (the back gesture on a phone) closes only the top view. From the second view on, "Close all" takes you back to the page. A click beside a view closes it; with several open, you choose between this one and all.
