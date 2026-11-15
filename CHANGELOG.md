@@ -2,6 +2,15 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.15.476 (2026-11-15)
+
+- Incarnon: a tile opens its details. They show the adapter's cost, where you install it and which Circuit week offers it, plus every evolution with the challenge that unlocks it and its perks, with your variants' values. The evolutions come from the wiki.
+- Activities: tiles grouped into "Still to do" and "Done", with Daily, Weekly and Nightwave inside. A tile opens its details: what it's for, the Arcanes you track from it, and this week's Circuit adapters. Activities the game doesn't report are ticked off there.
+- Trading: groups by what to do, each with what its parts bring altogether, and the categories inside. A tile opens the part's details: what to do with each copy, what you keep and why, its set. The "Choose" boxes are gone.
+- Mastery: "Subsumed" instead of "Fed to Helminth", and "Prime owned" when you have the Prime. Each item shows its subtype (Rifle, Bow …) instead of repeating the category it is listed under. An item to level opens its details.
+- Tiles: Arcanes and resources show their best place; resources also show what they are for. Relics no longer show "Farmable" or a time.
+- Islands: item tiles also show what buys an item, with what you have on hand.
+
 ## 2026.11.15.471 (2026-11-15)
 
 - Islands: larger islands now show their areas as places, each with its own unlock. Examples: Isleweaver in Duviri, the Eidolon Hunts on the Plains, the Deepmines in Orb Vallis.
