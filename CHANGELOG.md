@@ -2,6 +2,13 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.15.491 (2026-11-15)
+
+- **Surplus** (was Trading, now under Progression): everything you hold beyond your plan, in one place, by what to do with it: sell as a set or for Platinum, Ducats at Baro, feed the Helminth (its secretions shown), dissolve mods for Endo and Arcanes for Vosfor, subsume Warframes, open relics for Ducats, Riven Slivers at Palladino. Each section says what it brings altogether.
+- Mod, Arcane and resource details say how many are spare, with a link to Surplus.
+- Right now suggests the Arcane collection that saves the most farming, with what it costs and brings on average.
+- **Journey** is a page of its own (first under Progression) instead of a tab on Islands.
+
 ## 2026.11.15.487 (2026-11-15)
 
 - Settings: in tabs (Pages, Appearance, The program, Feedback).

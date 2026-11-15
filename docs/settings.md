@@ -5,7 +5,7 @@ Open **Settings** at the bottom of the page's navigation. The tray menu
 settings too; both always agree.
 
 ## Pages the game hasn't opened yet
-Some pages only matter once the game opens them (Trading at Mastery Rank 2,
+Some pages only matter once the game opens them (Surplus at Mastery Rank 2, as trading needs it;
 Incarnon after its quests, Arcanes once you can get one). Choose how they show:
 **hide them** (the default — they appear by themselves later), **grey them
 out** (with a lock and what unlocks them), or **show them as any other**.

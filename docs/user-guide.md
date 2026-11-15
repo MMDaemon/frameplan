@@ -20,9 +20,11 @@ daily and weekly tasks), and your progress over time.
   and the quickest source.
 - **Incarnon** — Incarnon weapons and Genesis adapters: evolutions, what's
   next, this week's Circuit rotation.
-- **Trading** — what is worth selling and for how much (warframe.market prices).
 
 ## Progression
+- **Journey** — what to play next to get further: the open quests and what
+  each opens, the junctions, the places not open yet, the Star Chart and the
+  Steel Path.
 - **Islands** — the heart of the planner. An *island* is a place you farm in one
   session (the Star Chart, Zariman, Cambion Drift, Void Fissures …). Each island
   lists, place by place, everything you still miss there — items with their
@@ -36,6 +38,11 @@ daily and weekly tasks), and your progress over time.
 - **Syndicates** — your ranks and Standing, today's trade-ins, the offerings you
   need and the mods you miss there.
 - **Activities** — daily and weekly tasks, ticked off as you play.
+- **Surplus** — everything you hold beyond your plan and what it can go to:
+  sell as a set or for Platinum (warframe.market prices), Ducats at Baro,
+  feed the Helminth, dissolve mods for Endo and Arcanes for Vosfor, subsume
+  Warframes, open relics for Ducats, Riven Slivers at Palladino — each
+  section with what it brings altogether.
 
 Everything links both ways: an item, Arcane, resource or mod leads to its
 islands, and an island back to each of them.

@@ -19,7 +19,7 @@ Only public game data, never anything about you:
 |---|---|
 | content.warframe.com (Digital Extremes) | item pictures and game data (Public Export) |
 | warframestat.us, WFCD (via GitHub/jsDelivr) | item and drop data, the world state (Baro, Nightwave, fissures …) |
-| warframe.market | item prices for the Trading page |
+| warframe.market | item prices for the Surplus page |
 | api.github.com, github.com and its download servers (githubusercontent.com) | whether a new version is out, and the update; feedback you send (see below) |
 
 ## Feedback
