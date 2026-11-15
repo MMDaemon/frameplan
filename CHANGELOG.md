@@ -2,6 +2,17 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.15.471 (2026-11-15)
+
+- Islands: larger islands now show their areas as places, each with its own unlock. Examples: Isleweaver in Duviri, the Eidolon Hunts on the Plains, the Deepmines in Orb Vallis.
+- Islands: the faction syndicates are one island, "Syndicates", with a place per syndicate. Items are grouped by the rank they are bought at, and your current rank is shown.
+- Islands: new "Relays" island for Teshin, Arbitration Honors, Zorba, Ergo Glast, Simaris and Baro.
+- Islands: new "Clan Dojo" island with one place per lab. It is listed under "No farming needed".
+- Island details: the head stays in view while you scroll. Big islands get a place navigation with "Open all" and "Close all", and places can be collapsed.
+- Island details: what you are missing at a place is shown as tiles, each with its best drop place and time. A click opens the details.
+- Items: anything with every part in hand but resources short is in its own group, "Resources missing".
+- Journey: closed areas of open islands are listed again under "Places not available yet".
+
 ## 2026.11.14.465 (2026-11-14)
 
 - Updating from inside the app now starts Frameplan again afterwards (it could fail with "Failed to load Python DLL"; if that happened, just start Frameplan from the Start menu).
