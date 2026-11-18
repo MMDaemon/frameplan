@@ -2,6 +2,18 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.18.497 (2026-11-18)
+
+Fixes from your feedback:
+
+- **Journey / Steel Path:** Descendia missions done on the Steel Path now count as done. Sanctuary Onslaught, Testudo, The Index and the Railjack confrontations are no longer listed as nodes to do (they aren't Star Chart nodes); Ascension (Brutus) stays.
+- **Dark Refractory:** shows its six real missions, each with its mode — The Descendia (Descend, Roathe's Oblivion) and The Perita Rebellion (three Recalls, The Guilty). The Sanctuary checkpoints are no longer counted as missions of their own.
+- **Railjack:** Fenton's Field, Profit Margin and the other Proxima missions are now under Railjack instead of the Star Chart.
+- **Cephalon Simaris:** his offer of a Warframe's main blueprint (e.g. Nidus) is no longer shown as a source for its Systems, Chassis or Neuroptics.
+- **Resources shown as parts:** resources like Dull Button, fish parts or plants were listed as a missing part while you had none; they are resources now.
+- **Arcane fusion:** "Right now" has a new group "Arcanes: fuse now" (before buying) that shows the rank the copies you have reach — e.g. rank 0 → 2 with 7 copies — and what to dismantle first. The Arcane's details say so too.
+- **Search Pulses:** Temporal and Deep Archimedea can always be ticked off, also when no Arcane you track needs them (their main reward is Archon Shards). Archimedeas you haven't unlocked yet take no Pulses.
+
 ## 2026.11.15.491 (2026-11-15)
 
 - **Surplus** (was Trading, now under Progression): everything you hold beyond your plan, in one place, by what to do with it: sell as a set or for Platinum, Ducats at Baro, feed the Helminth (its secretions shown), dissolve mods for Endo and Arcanes for Vosfor, subsume Warframes, open relics for Ducats, Riven Slivers at Palladino. Each section says what it brings altogether.

@@ -22,5 +22,5 @@ runtime from Digital Extremes' content server and are not part of Frameplan.
 | [warframe.market](https://warframe.market) | item prices | used with its public API; not affiliated |
 | [AlecaFrame](https://alecaframe.com) | your inventory (read from its local file) | not affiliated; Frameplan never changes AlecaFrame's files |
 
-Third-party software licenses of the page are listed in the app
-(`THIRD-PARTY-NOTICES.txt`).
+Third-party software licenses -- of the page and of the Python software inside
+the program -- are listed in the app (`THIRD-PARTY-NOTICES.txt`).
