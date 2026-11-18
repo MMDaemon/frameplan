@@ -4,15 +4,24 @@ Open **Settings** at the bottom of the page's navigation. The tray menu
 (right-click the icon in the taskbar's notification area) has the program's
 settings too; both always agree.
 
-## Pages the game hasn't opened yet
-Some pages only matter once the game opens them (Surplus at Mastery Rank 2, as trading needs it;
-Incarnon after its quests, Arcanes once you can get one). Choose how they show:
-**hide them** (the default — they appear by themselves later), **grey them
-out** (with a lock and what unlocks them), or **show them as any other**.
+## What the game hasn't opened yet
+Pages, parts of a page, islands, places and planets the game opens later:
+Incarnon after its quests, Arcanes once you can get one, selling on the
+Surplus page at Mastery Rank 2 (trading also needs Two-Factor Authentication),
+the Helminth once its segment is built, a planet behind its junction, the
+Steel Path before Teshin opens it … Choose how they show: **grey them out**
+(the default — with a lock and what unlocks them), **hide them** (they appear
+by themselves later), or **show them as any other**.
 
-## Show what you can't get yet
-Items locked by your Mastery Rank or by an island you can't play yet count in
-your goals too.
+## Items you can't get yet
+Items locked by your Mastery Rank or by an island you can't play yet:
+**greyed out** (the default) or **shown as any other** they count in your
+goals; **hidden** they don't. The Items and Islands pages' Display switch is
+the same setting.
+
+## Appearance
+Dark, light or like the browser. Each browser and device keeps its own choice
+(a phone can be light while the PC is dark).
 
 ## The program
 These are the tray menu's settings. On a phone they are shown but can only be

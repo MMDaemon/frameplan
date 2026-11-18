@@ -23,14 +23,20 @@ daily and weekly tasks), and your progress over time.
 
 ## Progression
 - **Journey** — what to play next to get further: the open quests and what
-  each opens, the junctions, the places not open yet, the Star Chart and the
-  Steel Path.
+  each opens, the junctions with their tasks, the places not open yet, the
+  Star Chart and the Steel Path. A planet opens its details: every node with
+  its Star Chart and Steel Path state, the Mastery a clear still gives (or
+  "for the record" when it gives none), and which nodes Teshin asks for
+  before he opens the Steel Path.
 - **Islands** — the heart of the planner. An *island* is a place you farm in one
   session (the Star Chart, Zariman, Cambion Drift, Void Fissures …). Each island
   lists, place by place, everything you still miss there — items with their
   missing parts, Arcanes, resources and mods — and every drop place, the best
-  marked with a star. It also says what it takes to get in (a Dragon Key for an
-  Orokin Vault, a Search Pulse for a Netracell …) and how far you are.
+  marked with a star. A shop is a place of its own: its items as tiles, its
+  currency in the place's head. It also says what it takes to get in (a Dragon
+  Key for an Orokin Vault, a Search Pulse for a Netracell …) and how far you
+  are. The chips show only the islands with items, resources, mods or Arcanes
+  for you.
 - **Resources** — the resources you are short of, what needs them and where
   they come from.
 - **Relics** — which relics hold parts you need, where to get them and which to
@@ -42,7 +48,8 @@ daily and weekly tasks), and your progress over time.
   sell as a set or for Platinum (warframe.market prices), Ducats at Baro,
   feed the Helminth, dissolve mods for Endo and Arcanes for Vosfor, subsume
   Warframes, open relics for Ducats, Riven Slivers at Palladino — each
-  section with what it brings altogether.
+  section with what it brings altogether, and what opens a section the game
+  hasn't opened yet.
 
 Everything links both ways: an item, Arcane, resource or mod leads to its
 islands, and an island back to each of them.

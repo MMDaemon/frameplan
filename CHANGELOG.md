@@ -2,6 +2,16 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.18.500 (2026-11-18)
+
+- **Locked things are greyed out, with what opens them.** Pages, parts of a page, islands, planets and items you can't get yet now show greyed out with the steps that unlock them, instead of being hidden. Greyed-out items still count in your goals. Settings → Pages lets you hide them or show them as any other.
+- **Surplus is always open.** Each section says what it needs: selling (Mastery Rank 2 and Two-Factor Authentication), the Helminth (its segment), Subsume (Metamorphosis rank 1), Palladino (Chains of Harrow), Arcanes to Vosfor (Whispers in the Walls).
+- **Journey: planet details.** Click a planet to see every node with its Star Chart and Steel Path state, the Mastery a clear still gives (or that it only counts for the record), and which nodes Teshin asks for before the Steel Path. Junctions list their tasks; a planet not reached yet says how to get there. The Steel Path stays greyed out until you unlock it.
+- **Islands:** chips for Items, Resources, Mods and Arcanes; the Dark Refractory is one island with The Descendia and The Perita Rebellion; shops are places of their own, their items as tiles and the currency in the place's head (thanks for the feedback!); Railjack places are named by their Proxima.
+- Netracells are no longer suggested before Whispers in the Walls.
+- The Arcane pack advice keeps the currency your missing items still need, leaves out skipped Arcanes right away and says how often a pack is in stock.
+- The design (dark, light, like the browser) is now kept per device.
+
 ## 2026.11.18.497 (2026-11-18)
 
 Fixes from your feedback:
