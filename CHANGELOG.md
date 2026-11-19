@@ -2,6 +2,15 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.19.508 (2026-11-19)
+
+- **One tile look, after AlecaFrame:** wherever something holds a few things of its own, they are small labelled tiles with their picture, name and state — an item's parts, a set's parts, a relic's parts you still need with their chance, the items on an island and in each of its missions, the Arcanes in a collection, the offerings you need from a syndicate, an Incarnon weapon's evolutions, the Arcanes an activity still gives. Missing is marked by a warning sign, a dashed frame and the word, not by colour alone.
+- **Prime sets like a trading list:** the set view now shows only sets. Each says how many whole sets you own, whether it is vaulted, each part as "held / per set", the price and Ducats each, and the parts left over beyond the whole sets.
+- **Copies on the picture:** relics and sets show the copies you own as a small "×3" on their picture.
+- **Spare Arcanes counted once:** the Arcanes page, the Surplus page and Do now now agree on which spare copies are sold and which are dissolved; before Whispers in the Walls, spares are no longer counted as Vosfor you can have now.
+- **Clear words when AlecaFrame's data is missing:** if the inventory isn't there yet or was caught half-written, the page says what to do instead of showing a technical error, and builds by itself once it is back.
+- **Under the hood:** many more tests — clicks in a real browser, broken or missing inputs, and the updater with real setups.
+
 ## 2026.11.19.505 (2026-11-19)
 
 - **Sell or dissolve, your way:** the Surplus page now asks how much Endo and how much Vosfor one Platinum is worth to you. Spare mods and Arcanes are sold only when that brings more than dissolving them. The start values come from the market (a filled Ayatan Anasa for Endo, your own spare Arcanes for Vosfor); a value you enter wins.
