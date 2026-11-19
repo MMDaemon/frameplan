@@ -2,6 +2,14 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.19.511 (2026-11-19)
+
+- **Its own window:** Frameplan now opens as a window of its own in Edge or Chrome — its own taskbar icon, no address bar. Prefer a browser tab? Switch off "Open as app window" in the tray menu or in Settings → The program.
+- **A friendlier address:** the page lives at `http://frameplan.localhost:8765`. Bookmarks to the old address keep working and move there by themselves, taking your light or dark choice along.
+- **Your reports:** signed in with GitHub, the Feedback dialog lists what you have sent and what became of it — open, done, not planned — with a link to each.
+- **Relics show every reward:** each relic lists all six rewards with how many you own; the ones you still need are marked, each with its chance.
+- **Prime sets:** a set whose spare parts wait for one more set now sits under "Keep for a set".
+
 ## 2026.11.19.508 (2026-11-19)
 
 - **One tile look, after AlecaFrame:** wherever something holds a few things of its own, they are small labelled tiles with their picture, name and state — an item's parts, a set's parts, a relic's parts you still need with their chance, the items on an island and in each of its missions, the Arcanes in a collection, the offerings you need from a syndicate, an Incarnon weapon's evolutions, the Arcanes an activity still gives. Missing is marked by a warning sign, a dashed frame and the word, not by colour alone.

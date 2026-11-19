@@ -24,8 +24,10 @@ a page in your browser up to date while you play.
 2. Run it. It installs for your Windows user only, no administrator rights.
    Windows may warn about an unknown publisher (the setup isn't code-signed):
    choose “More info” → “Run anyway”.
-3. Frameplan starts and opens its page at `http://localhost:8765`. Its icon is
-   in the taskbar's notification area (right-click it for the menu).
+3. Frameplan starts and opens its page at `http://frameplan.localhost:8765` —
+   as a window of its own in Edge or Chrome (switch it off in the tray menu:
+   “Open as app window”), else in your browser. Its icon is in the taskbar's
+   notification area (right-click it for the menu).
 
 ## Updates
 
