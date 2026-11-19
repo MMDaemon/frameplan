@@ -2,6 +2,16 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.19.503 (2026-11-19)
+
+- **Updates tell you what they do:** the tray now says when an update downloads, when it installs (Frameplan restarts in a moment) and, if it stops, why. While it runs, the menu entry reads "Installing …".
+- **Buy now, whole items only:** an item is listed only when you can buy every part it still misses, with what you have now — one line per item with its cost per currency.
+- **Item details at a glance:** every part shows its state and build time in its row, and "The whole item" sums what buying and building everything still open takes.
+- **Journey, grouped like every page:** quests in progress, ready to start, blocked (with what they need) and done; planets with missions open, only the Steel Path open, to unlock (with the junction's tasks) and done; chips and a search.
+- **More tiles:** Arcane packs and spare copies, and "Available now" on the Overview and the Islands page.
+- **Chips and filters:** Mastery by category, Syndicates by kind, Resources by where they come from and by rarity.
+- **More pictures:** syndicate offers, ingredients, prices and resources.
+
 ## 2026.11.18.500 (2026-11-18)
 
 - **Locked things are greyed out, with what opens them.** Pages, parts of a page, islands, planets and items you can't get yet now show greyed out with the steps that unlock them, instead of being hidden. Greyed-out items still count in your goals. Settings → Pages lets you hide them or show them as any other.
