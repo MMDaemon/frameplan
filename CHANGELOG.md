@@ -2,6 +2,15 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.19.505 (2026-11-19)
+
+- **Sell or dissolve, your way:** the Surplus page now asks how much Endo and how much Vosfor one Platinum is worth to you. Spare mods and Arcanes are sold only when that brings more than dissolving them. The start values come from the market (a filled Ayatan Anasa for Endo, your own spare Arcanes for Vosfor); a value you enter wins.
+- **Arcanes, best way per copy:** sell spare copies one by one, fuse them to max rank and sell, or dissolve them at Loid — whichever brings most.
+- **Prime sets:** switch "Prime parts as" to Sets: each set's price against its parts', its Ducats at your rate, and the best way to give it away.
+- **Clearer Surplus groups:** every group says what you get ("Dissolve for Endo", "Dissolve for Vosfor", "Sell set for Platinum" …), and each chip shows only its own settings.
+- **Why this pack:** Arcane collections are ranked by the farm time a pack saves per 100 of its currency; the recommended one is marked, with the reason.
+- **Safer data:** if a day's game data lacks the ranks or drop places of many Arcanes, the page says so instead of quietly showing fewer.
+
 ## 2026.11.19.503 (2026-11-19)
 
 - **Updates tell you what they do:** the tray now says when an update downloads, when it installs (Frameplan restarts in a moment) and, if it stops, why. While it runs, the menu entry reads "Installing …".
