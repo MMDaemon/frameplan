@@ -2,6 +2,15 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.19.514 (2026-11-19)
+
+- **No story spoilers.** Places and items the story hasn't shown you yet stay hidden until you finish their quest, just like in the game. Quest names still show, as in your Codex. Lists that leave something out end with "More shows up later in the story". You can switch this off: Settings → Pages → "Show story spoilers".
+- **Which refinement to open a relic at.** Relic tiles and details now say "Open Intact" or "Open Radiant" for the parts you still need, with the chance per opening. If Radiant is better but you lack the Void Traces, it says so.
+- **No more cut-off texts.** Tile texts no longer end in "…": long ones are said shorter on the tile, and the details still give them in full. Names in the small part tiles take up to two lines ("BP" stands for Blueprint).
+- **Surplus: one window per Prime item.** Opening a part or a set now shows everything for the whole item: which set you keep, what to sell as whole sets, and every spare part for Platinum or Ducats. Each row says what one copy brings, the total and why, with the sums at the end.
+- **Journey: Railjack on its own.** The Proxima regions have their own "Railjack" filter and count; "Star Chart" now means the Star Chart only.
+- **Fix:** Perigale, Voruna and other Zariman items now list all the resources their blueprint needs (Lua Thrax Plasm and Thrax Plasm were missing).
+
 ## 2026.11.19.511 (2026-11-19)
 
 - **Its own window:** Frameplan now opens as a window of its own in Edge or Chrome — its own taskbar icon, no address bar. Prefer a browser tab? Switch off "Open as app window" in the tray menu or in Settings → The program.
