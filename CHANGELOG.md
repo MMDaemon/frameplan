@@ -2,6 +2,10 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.20.533 (2026-11-20)
+
+- Tiles: names that fit, fixed tighter layouts without blank slots
+
 ## 2026.11.20.530 (2026-11-20)
 
 - **Focus page (Inventory):**
