@@ -2,6 +2,27 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.20.524 (2026-11-20)
+
+- **Archon Shards page (Inventory):**
+  - every shard kind you hold, with your own "keep at least" target;
+  - where each kind comes from: this week's Archon Hunt, Bird 3, Praghasa, Archimedea, Netracells, the Descendia, the Icebind, fusions;
+  - the shards set into each Warframe, with their bonuses and free slots;
+  - which fusions your shards allow. Turning three of one colour into a Tauforged shard is recommended when no target needs them; colour fusions are only shown.
+- **Search Pulses** now also count the Archon Shards you are short of a target.
+- **Foundry task:** a daily task for everything you build "as many as possible" of, with its Credits and build time from the game's recipes. It replaces the old Forma reminder.
+- **One target control** in every details window (Supplies, Resources, Archon Shards).
+- **Activities:**
+  - activities you can't play yet show as locked, with what unlocks them;
+  - rewards come from the game's drop tables;
+  - reminders only go out for activities whose reset loses you something.
+- **"Fuse now"** in Recommended Activities shows Arcanes and Archon Shards together, each with its picture.
+- **Spoiler protection:** before the quests that reveal them, the page no longer names the Archon Hunt, the Archons, the Drifter's Camp or Kahl's Garrison.
+- **Smaller fixes:**
+  - "Report a problem" in the Surplus window now attaches the whole item;
+  - screen readers hear a resource's count once;
+  - big numbers are shortened the same way everywhere.
+
 ## 2026.11.19.514 (2026-11-19)
 
 - **No story spoilers.** Places and items the story hasn't shown you yet stay hidden until you finish their quest, just like in the game. Quest names still show, as in your Codex. Lists that leave something out end with "More shows up later in the story". You can switch this off: Settings → Pages → "Show story spoilers".
