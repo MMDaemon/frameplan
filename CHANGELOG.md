@@ -2,6 +2,24 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.20.530 (2026-11-20)
+
+- **Focus page (Inventory):**
+  - all five schools with your Focus points;
+  - each school's target, set by you: max every Way, or no target;
+  - how much Focus is still missing until every Way is maxed and every Waybound is unbound;
+  - every Way with its rank and what the next rank costs. The Ways you can afford right now come first, cheapest first.
+  - The details list every rank's effect and cost, including Tauron Strikes and their Tektolyst Artifact from Marie.
+  - Also: today's Focus cap, the lenses you hold, and how Focus comes in.
+  - Brilliant Eidolon Shards and Tauron resources count as needs on the Resources page.
+- **Spoiler protection:** before The Second Dream there is no Focus page and no daily Focus activity. The Tauron Ways stay hidden until The Old Peace.
+- **Mods:** a new "Conclave" choice shows all mods, all mods without Conclave ones, or only Conclave mods.
+- **Names instead of counts:** while they are few, tiles now say which things are missing, not only how many:
+  - Journey: the nodes the Steel Path still needs
+  - Surplus: the parts a spare set lacks
+  - Syndicates: what you buy there for
+- **Weekly reminder:** it now lists the runs in a fixed order.
+
 ## 2026.11.20.524 (2026-11-20)
 
 - **Archon Shards page (Inventory):**
