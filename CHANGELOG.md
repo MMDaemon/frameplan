@@ -4,7 +4,11 @@ The newest version first. Each release's notes are written by `tools.release`.
 
 ## 2026.11.20.533 (2026-11-20)
 
-- Tiles: names that fit, fixed tighter layouts without blank slots
+- **Names instead of counts:** tiles now list the missing things by name, as many as fit, then "+N more". For example, "Steel Path open: Plato, Copernicus" instead of "2 nodes".
+- **Tighter tiles:** less empty space on Journey, Surplus (Prime parts), Islands, Mods, Arcanes, Supplies and Incarnon. Information that never shows at the same time now shares a line; for example, a mod shows where it drops while you still need it, and what to do with its spare copies otherwise.
+  - Tiles of one kind keep the same size and don't change height when their content changes.
+  - Every line now says something: "All Mastery earned", "No Steel Path here", "Nothing to do".
+  - The details windows still show everything.
 
 ## 2026.11.20.530 (2026-11-20)
 
