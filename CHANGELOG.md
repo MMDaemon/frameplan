@@ -2,6 +2,12 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.25.543 (2026-11-25)
+
+- Focus: clearer page. "Earn Focus" (today's cap, shards to convert, lenses, where to farm) is one block at the top that opens on demand; choosing a school shows only its tile; each school's Ways are listed in tree order.
+- Archon Shards: a Warframe's slots are shown as small boxes, empty slots dashed, instead of one "Free slot" line each.
+- Prices: a set without a sale in the last 2 days says "no recent sales" instead of "0 p"; "no buyers" now also shows on Prime part and set tiles.
+
 ## 2026.11.25.539 (2026-11-25)
 
 - Layout bundle: own scroll area, compact week chips, shards into Focus, tight tiles
