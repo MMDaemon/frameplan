@@ -2,6 +2,12 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.25.539 (2026-11-25)
+
+- Layout bundle: own scroll area, compact week chips, shards into Focus, tight tiles
+- Mods: the tile names a vendor, Baro or the wiki's words when nothing drops it
+- Prices: recent sales and today's cheapest sellers, "no buyers right now"
+
 ## 2026.11.20.533 (2026-11-20)
 
 - **Names instead of counts:** tiles now list the missing things by name, as many as fit, then "+N more". For example, "Steel Path open: Plato, Copernicus" instead of "2 nodes".
