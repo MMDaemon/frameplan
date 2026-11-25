@@ -2,6 +2,10 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.25.545 (2026-11-25)
+
+- Focus: Tektolyst Artifacts and Marie's shop with its daily rotation
+
 ## 2026.11.25.543 (2026-11-25)
 
 - Focus: clearer page. "Earn Focus" (today's cap, shards to convert, lenses, where to farm) is one block at the top that opens on demand; choosing a school shows only its tile; each school's Ways are listed in tree order.
