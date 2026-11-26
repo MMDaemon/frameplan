@@ -2,6 +2,14 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.26.552 (2026-11-26)
+
+- Your in-game wishlist: what Frameplan plans from it counts as a favourite while it's on the list; the Items page names the rest (cosmetics) and wishes you already own.
+- Surplus: the trades you have left today.
+- Right now: boosters and blessings still running, with what they do and until when.
+- Helminth: a base Warframe is spare when its Prime or Umbra is built or you have a second copy; a new setting recommends every base Warframe or only spare ones.
+- Right now: the Search Pulses heading counts the Pulses left ("5/5 left").
+
 ## 2026.11.26.549 (2026-11-26)
 
 - Marie's shop: each offer's share of the days, review leftovers of #293
