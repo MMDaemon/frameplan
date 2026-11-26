@@ -2,6 +2,11 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.26.549 (2026-11-26)
+
+- Marie's shop: each offer's share of the days, review leftovers of #293
+- Archon Shards: each slot with its shard's picture, Tauforged marked on it
+
 ## 2026.11.25.545 (2026-11-25)
 
 - Focus: Tektolyst Artifacts and Marie's shop with its daily rotation
