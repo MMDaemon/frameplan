@@ -2,6 +2,15 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.26.565 (2026-11-26)
+
+- **Goals per page**: owning everything is always the goal; "maxed" and page extras (mod tuning ranks, Focus Tauron Strikes) are optional. A new **Goals** tab in Settings holds every page's goal, the Helminth choice and a reminder switch per activity. Status groups stay the same whatever goal you pick.
+- **Archon Shards**: only Tauforged shards are collected (as many as possible); normal shards have no target.
+- **Supplies** with a blueprint have two targets: the finished item and its blueprints.
+- **Right now** in two parts: first what needs no mission, then **Next missions** (at most three): your next quests, junctions and Star Chart nodes while those are open, then a relic with an open fissure, a quest's rewards or the quickest island.
+- **Live offers**: alerts, events, invasions, Teshin's Steel Path offer (this and next week), the Fomorian and Razorback while they run, the Sentient Anomaly's node and the Arbitration. Choose per source in Settings > Pages: always, only when you need a reward, or never. "Need" now also counts resources you are short of and supplies below their target.
+- **Activities tick themselves** from your save: Maroo's Ayatan hunt and Clem's weekly mission. The **1999 Calendar** shows days done, the next task or prize choice and which prize you need.
+
 ## 2026.11.26.552 (2026-11-26)
 
 - Your in-game wishlist: what Frameplan plans from it counts as a favourite while it's on the list; the Items page names the rest (cosmetics) and wishes you already own.
