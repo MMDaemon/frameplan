@@ -2,6 +2,22 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.27.573 (2026-11-27)
+
+### A new group: Activities
+- The menu has a group **Activities** right after the Overview: **Daily & Weekly** (the former Activities page), **Rotations** and **Events**. The side panel's tab is called Activities too.
+- **Rotations** now also shows what rotates without the game's live feed saying so: Marie's shop (her pools, until her reset), this week's Steel Path Circuit adapters (which ones are worth it for you), the Archon Hunt, Palladino's weekly offers, Nora's Cred offerings and Acrithis' daily stock (how often each Arcane comes). Each tile leads to its detailed page.
+- Tiles on Daily & Weekly, Rotations and Events show their likeliest rewards as small tiles, what you need first.
+- The side panel and Right now lead to the matching Rotations tile; the Archon Hunt, Focus and the Circuit lead to their pages; a bounty to its island; a syndicate's details list its bounties now; relic tiles say the fissure open now for their tier.
+
+### Pictures
+- DE's own icons first, and pictures DE changes are fetched again.
+- A blueprint shows the item it builds, with a small blueprint mark.
+- Syndicates show the sigil of your rank; Focus Ways show their icons.
+
+### Fixed
+- The Zid-An Arcanes are found again: they have their own chip "Tektolyst Artifacts", and the search finds "zidan" and "tektolyst" (every search now ignores hyphens and apostrophes).
+
 ## 2026.11.27.567 (2026-11-27)
 
 ### New pages: Rotations and Events
