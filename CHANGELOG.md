@@ -2,6 +2,21 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.28.578 (2026-11-27)
+
+### New: Cosmetics and Collectibles (in Inventory)
+- **Cosmetics**: a checklist of every cosmetic you can earn without Platinum (syandanas, ephemera, sigils, glyphs, skins, emotes, palettes …), what you own, and where to get the missing ones: drop places, vendors and syndicates with their price, quests, Nightwave, Baro. Items only an event gives say "Only during <event>". Market, TennoGen and promotion items show only with Show "Everything of the kind".
+- **Collectibles**: lore fragments, Somachord tones, Frame Fighter data and the collectible series, with how many scans each still needs, and the keys you hold. Codex scans aren't in the inventory data, so they aren't listed.
+- Each page has an optional goal in Settings > Goals (off by default). With it on, missing free cosmetics are marked as wanted in rewards and shops, and both pages get a tile on the Overview.
+
+### Fixes from your feedback
+- Mods: "Without Conclave" now also hides Conclave augments such as Antimatter Mine (#36).
+- Rotations and Events: reward names like "Breath of the Eidolon" are no longer cut to "of the Eidolon" (#30).
+- The Display menu no longer reaches past the page on Events (#31).
+- A void fissure's details now open the Relics page on that relic tier (#28).
+- Ended fissures, invasions, alerts and bounties leave the list right away instead of at the next update (#26).
+- Foundry: a finished build now says "Ready to claim" (#33).
+
 ## 2026.11.27.575 (2026-11-27)
 
 ### Resources: every resource
