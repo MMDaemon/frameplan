@@ -2,6 +2,14 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.27.575 (2026-11-27)
+
+### Resources: every resource
+- The Resources page lists every resource now, not only what one of your goals needs -- grouped into Short, Kept in stock, Enough for my goals, Not needed by a goal and Not owned.
+- **Show** has four steps: Still to get, For my goals, Everything I own (the default) and Every resource.
+- Each resource says what your goals take and what it takes **in general** (the highest regular goals): with Focus' goal "unlock every Way", Lyroic Bridge, Ren Hypercore and Ascaris Prime still say how many maxing every school takes.
+- A new chip **Dark Refractory** holds the Perita Rebellion's and the Descendia's resources; Fortuna's Debt-Bonds and the Entrati tokens are under their open worlds.
+
 ## 2026.11.27.573 (2026-11-27)
 
 ### A new group: Activities
