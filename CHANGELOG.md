@@ -2,6 +2,21 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.27.567 (2026-11-27)
+
+### New pages: Rotations and Events
+- **Rotations**: everything the game rotates right now, in detail -- the bounty boards of Konzu, Eudico and Mother with every stage's rewards and their chances, Void Fissures, Teshin's offer (this week and next), Baro Ki'Teer (here, or when he comes), Varzia, invasions, the Circuit's Warframes this week, the open worlds' cycles, the Arbitration and the Sentient Anomaly. What you still need is marked on every tile.
+- **Events**: what runs now (events, alerts, the Fomorian and the Razorback), what comes up (alerts not started yet, a Fomorian or Razorback still being built, with its progress) and the events that come back while they don't run (Ghoul Purge, Thermia Fractures, Plague Star, Dog Days, Star Days, Nights of Naberus, Tennobaum) -- how often they return in the wiki's words and what they give. No guessed dates: the game doesn't announce them ahead.
+
+### Bounties
+- Every drop place of a bounty on Konzu's, Eudico's or Mother's board now says when that reward table is on the board ("Bounty board now · ends in …", or the next board when the game lists it). The Zariman's, the Sanctum's and Höllvania's boards don't name their rotation, so their places aren't marked.
+- Right now suggests a running bounty with a reward you need (and that you can take: area open, Mastery Rank high enough) under Next missions.
+- The Profit-Taker heist's stages are locked in their first-run order (rank 5 with Solaris United, then stage by stage), like every other lock.
+
+### Better
+- What you need is worked out the same way for every live offer: Baro's Primed mods you don't own are now marked (they still don't trigger a notification), and the Circuit's Warframes show again.
+- Notifications use the new list: an offer that was already announced is announced once more after this update.
+
 ## 2026.11.26.565 (2026-11-26)
 
 - **Goals per page**: owning everything is always the goal; "maxed" and page extras (mod tuning ranks, Focus Tauron Strikes) are optional. A new **Goals** tab in Settings holds every page's goal, the Helminth choice and a reminder switch per activity. Status groups stay the same whatever goal you pick.
