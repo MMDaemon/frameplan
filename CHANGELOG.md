@@ -2,6 +2,18 @@
 
 The newest version first. Each release's notes are written by `tools.release`.
 
+## 2026.11.28.580 (2026-11-28)
+
+### Fixes from your feedback
+- Items that need two of a part (Fang Prime: two Blades, two Handles) no longer count as complete with one of each; the part says "1 of 2 held" (#35).
+- Foundry: an item whose blueprints you all hold is "Ready to build" only when its parts' resources are on hand too, otherwise it is listed under "Resources missing" (#34).
+- Relics: relics you hold with a mod or part you still need are listed too, Requiem relics and their mods included, and their Void Fissures now say you need something there (#27, #29).
+- Events: a new choice "Rewards: All / Something you need" (#32).
+
+### Also new
+- In the details of Rotations and Events, a reward's name links to its own details (item, mod, Arcane, resource, cosmetic).
+- The Overview's Cosmetics and Collectibles tiles count only what the page shows.
+
 ## 2026.11.28.578 (2026-11-27)
 
 ### New: Cosmetics and Collectibles (in Inventory)
